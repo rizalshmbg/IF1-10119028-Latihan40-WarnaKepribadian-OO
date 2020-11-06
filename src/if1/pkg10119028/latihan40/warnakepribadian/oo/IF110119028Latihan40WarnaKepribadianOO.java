@@ -13,7 +13,7 @@ package if1.pkg10119028.latihan40.warnakepribadian.oo;
  * KELAS    : IF1
  * NIM      : 10119028
  * Deskripsi Program : Program ini berisi program untuk menampilkan kepribadian
- *                     user berdasarkan warna dengan konsep OO
+ *                     user berdasarkan warna dengan konsep OO   
  */
 public class IF110119028Latihan40WarnaKepribadianOO {
 
